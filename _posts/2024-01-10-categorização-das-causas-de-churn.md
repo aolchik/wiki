@@ -11,32 +11,31 @@ Abaixo as possíveis causas de churn segundo David Skok:
 
 1) Produto não atende expectativas
 
-  You are not meeting your customers expectations.
-  - The product may not provide enough value
-  - Instability or bugginess
+  Você não está atendendo às expectativas dos seus clientes.
+  - O produto pode não oferecer valor suficiente
+  - Instabilidade ou falhas
 
 2) Produto não é lembrado
 
-  Your product is not sticky. It might provide some value in the first few months, and then once the customer has that value, they may feel they don’t need to keep paying. To make your product sticky, try making it a key part of their monthly workflow, and/or have them store data in your product that is highly valuable to them, where the value would be lost of they cancelled.
+  Seu produto não é cativante. Pode oferecer algum valor nos primeiros meses, e depois, uma vez que o cliente obteve esse valor, ele pode sentir que não precisa continuar pagando. Para tornar seu produto cativante, tente torná-lo uma parte essencial do fluxo de trabalho mensal deles e/ou faça com que armazenem dados no seu produto que sejam altamente valiosos para eles, onde o valor seria perdido se eles cancelassem.
 
 3) Cliente não foi ativado
 
-  You have not successfully got the customer’s users to adopt the product. Or they may not be using certain of the key sticky features in the product.
+  Você não conseguiu que os usuários do cliente adotassem o produto. Ou eles podem não estar usando algumas das características mais cativantes do produto.
 
 4) Venda inflada
 
-   Your sales force may have oversold the product, or sold it to a customer that is not well suited to get the benefits
+   Sua equipe de vendas pode ter exagerado nas qualidades do produto, ou vendido para um cliente que não é adequado para obter os benefícios
 
 5) Descontinuidade negócio/operação
 
-  You may be selling to SMB’s where a lot of them go out of business. It isn’t enough that what you’re selling is sticky. Who you’re selling it to must also be sticky.
+  Você pode estar vendendo para PMEs onde muitas delas fecham. Não é suficiente que o que você está vendendo seja cativante. Para quem você está vendendo também deve ser cativante.
 
 6) Precificação assimétrica - não necessariamente causa do churn, mas impacta net revenue churn.
 
-  You are not using a pricing scheme that helps drive expansion bookings
+  Você não está usando um esquema de precificação que ajude a impulsionar as reservas de expansão.
 
 Artigo completo em
 <https://www.forentrepreneurs.com/saas-metrics-2/>
 
 Reforge também recomenda separar os usuários não ativados dos churned (causa 3 do David Skok). 
-
