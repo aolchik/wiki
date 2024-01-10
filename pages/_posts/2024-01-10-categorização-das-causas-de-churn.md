@@ -1,3 +1,9 @@
+---
+layout: post
+title: Categorização das Causas de Churn
+date: 2024-01-10
+categories:
+---
 
 # Modelo David Skok
 
