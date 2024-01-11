@@ -1,6 +1,6 @@
 # README.md
 
-## Comendos úteis
+## Comandos úteis
 
 Para rodar jekyll localmente:
 
