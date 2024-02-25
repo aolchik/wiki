@@ -1,5 +1,4 @@
 ---
-layout: post
 title: OpenAI - New Announcements at DevDay
 date: 2023-11-28
 categories:
