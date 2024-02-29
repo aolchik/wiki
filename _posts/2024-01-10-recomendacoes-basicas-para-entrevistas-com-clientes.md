@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Recomendações básicas paraconduzir entrevistas com cliente
 date: 2024-01-10
 categories:
@@ -25,4 +24,41 @@ Conduzir entrevistas eficazes sobre a rotatividade de clientes envolve várias e
 9. **Acompanhamento**: Se apropriado, faça um acompanhamento com os entrevistados para informá-los de como seu feedback foi implementado. Isso pode transformar um cliente que se foi em um defensor leal.
 
 10. **Melhorar Continuamente o Processo**: Revise e refine regularmente seu processo de entrevista com base no que você aprende de cada conjunto de entrevistas.
+
+
+Melhoria
+Learning bottlenecks can be created from either end: the founder in touch with customers can do a bad job of sharing it, or the product team can refuse to engage with customer and what they say.
+
+  
+
+Avoid being the only one to do the interviews and reduce the approach to telling the rest of the team what you learned, because you become the de-facto dictator through the argument that "The customer said so".  
+  
+
+You also ignore the problem that it is easy to misinterpret what the customer said.
+
+  
+
+The learning must be shared with the entire founding team. Everyone on the team who is making big decisions (including tech decisions) needs to be involved in at least occasional customer conversations.  
+
+  
+
+Take care to briefly prepare the interviews (big questions, desk research), take notes, and review the interview (organize notes and reflect about the quality of the interview itself).
+
+  
+
+Meetings go best when you've got two people at them. One person can focus on taking notes and the other can focus on talking. The second person may notice the lead asking bad questions or missing a signal they should be digging into, jumping in and fixing them. More than two, only if it's a group-on-group, as three can be a little overwhelming.
+
+  
+
+Completely outsourcing the interviews may not be a good choice, as properly assimilating bad news when they come from a third party may be difficult. Nontheless, you can hire people to help as long as you're there with them, listening.
+
+  
+
+Try to disseminate learning to your team as quickly and as directly as possible, using notes and exact quotes wherever you can: have quick chat about the results of the interview, have weekly meetings to go through them, or have a chat channel to share the learnings.
+
+  
+
+Reference
+
+- The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you
 
