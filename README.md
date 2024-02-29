@@ -20,6 +20,7 @@ Para converter todas as imagens, siga as instruções em https://mslinn.com/blog
 
 - Finalizar post
 - Publicar
+- Suporte a featured-image do artigo
 - Suportar comentários
 - Converter todas as imagens para webp
 - Suportar Google Analytics
