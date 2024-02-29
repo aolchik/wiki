@@ -21,6 +21,7 @@ Para converter todas as imagens, siga as instruções em https://mslinn.com/blog
 - Finalizar post
 - Publicar
 - Suporte a featured-image do artigo
+- Responsividade - limitar a largura do post em 632 pixels
 - Suportar comentários
 - Converter todas as imagens para webp
 - Suportar Google Analytics
@@ -30,5 +31,7 @@ Para converter todas as imagens, siga as instruções em https://mslinn.com/blog
   - Alinhar com linkedin
   - Melhorar imagem
   - Remover aceleradora
-
+- Integrar com postagem em redes sociais
+- Suportar tradução automática via ChatGPT
+- Suportar comentários e backlog de melhorias no artigo
 
