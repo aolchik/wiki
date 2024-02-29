@@ -18,7 +18,6 @@ Para converter todas as imagens, siga as instruções em https://mslinn.com/blog
 
 ## Backlog
 
-- Finalizar post
 - Publicar
 - Suporte a featured-image do artigo
 - Responsividade - limitar a largura do post em 632 pixels
