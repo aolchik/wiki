@@ -19,8 +19,10 @@ Para converter todas as imagens, siga as instruções em https://mslinn.com/blog
 ## Backlog
 
 - Publicar
+- Corrigir necessidade de reload a cada mudança de página
+  - Recebendo erro Error: The minimal-mistakes theme could not be found. desde que passei a usar o github-pages 
 - Suporte a featured-image do artigo
-- Responsividade - limitar a largura do post em 632 pixels
+- Adicionar TOC
 - Suportar comentários
 - Converter todas as imagens para webp
 - Suportar Google Analytics

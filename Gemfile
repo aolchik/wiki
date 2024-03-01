@@ -8,14 +8,10 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "jekyll", "~> 4.3"
+gem "jekyll"
 
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-#gem "minima", "~> 2.5"
-gem "minimal-mistakes-jekyll"
-
-# fixes sass-embedded and sassc lack of compatibility and build warnings - https://github.com/jekyll/jekyll-sass-converter/issues/145#issuecomment-1363069829
-gem 'jekyll-sass-converter', '~> 2.2'
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
