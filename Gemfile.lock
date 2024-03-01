@@ -213,7 +213,7 @@ GEM
     jekyll_plugin_logger (2.1.2)
       bump
       jekyll (>= 3.5.0)
-    jekyll_plugin_support (0.8.3)
+    jekyll_plugin_support (0.8.4)
       facets
       jekyll (>= 3.5.0)
       jekyll_plugin_logger
