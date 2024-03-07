@@ -13,8 +13,8 @@ gem "jekyll-include-cache", group: :jekyll_plugins
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-data"
-  gem "jekyll_img"
+  #gem "jekyll-data"
+  #gem "jekyll_img"
 end
 
 gem "webrick", "~> 1.8"
