@@ -17,7 +17,7 @@ Em um mundo onde a comunicação eficaz e a melhoria contínua são essenciais p
 A Netflix, conhecida por sua inovação e sucesso no setor de streaming, atribui grande parte de seu crescimento à cultura de feedback aberto e construtivo. Diferente de uma simples formalidade, o feedback na Netflix é visto como um pilar central para o desenvolvimento pessoal e profissional, impulsionando a empresa de um serviço de aluguel de DVD para um líder global no streaming. Este artigo busca desvendar como uma empresa pode adotar uma abordagem semelhante para cultivar uma cultura do feedback que apoie seu crescimento e inovação.
 
 
-{% include figure alt="Momento desafiador" image_path="/assets/images/20240223_momento_desafiador_1024x1024.png" %}
+{% include figure alt="Momento desafiador" image_path="/assets/images/20240223_momento_desafiador_1024x847.png" %}
 
 # Os Desafios do Feedback Efetivo
 
@@ -26,24 +26,41 @@ Apesar de sua importância, o feedback efetivo é desafiador. Em muitas organiza
 
 # Os 4 A's do Feedback na Netflix
 
-{ % img alt="Equipe se ajudando" src="/assets/images/20240223_equipe_se_ajudando_1024x1024.png" size="200px" %}{: .align-left}
 ## Ajudar (Aim to Assist)
+![Equipe se ajudando](/assets/images/20240223_equipe_se_ajudando_1024x1024.png){: .align-left .img_width_200px}
 O primeiro pilar foca na intenção por trás do feedback. Ele deve ser entregue com o objetivo de ajudar a pessoa a ter sucesso, não apenas criticá-la. É crucial que o feedback venha de um lugar de positividade, mesmo que ocasionalmente possa machucar sentimentos. Exemplos práticos incluem a maneira como você comunica suas observações, garantindo que elas sejam construtivas e focadas no crescimento da pessoa ou da empresa.
+&nbsp;
 
-{ % img alt="Reação a feedback acionável e não acionável" src="/assets/images/20240228_feedback_acionavel_1024x1024.png" size="200px" %}{: .align-left}
+&nbsp;
+
 ## Ação (Actionable)
-Feedbacks devem ser específicos e acionáveis, focando no que pode ser feito de maneira diferente. Evite comentários vagos que deixam a pessoa sem direção clara. Por exemplo, em vez de dizer que uma apresentação está clara, sugira adicionar exemplos específicos para melhorar a compreensão da equipe.
+![Reação a feedback acionável e não acionável](/assets/images/20240228_feedback_acionavel_1024x1024.png){: .align-left .img_width_200px}
+Feedbacks devem ser específicos e acionáveis, focando no que pode ser feito de maneira diferente. Evite comentários vagos que deixam a pessoa sem direção clara. Por exemplo, em vez de dizer que uma apresentação está clara, sugira adicionar exemplos específicos para melhorar a compreensão da equipe. 
+&nbsp;
 
-{ % img alt="Distintivo de reconhecimento associado a imagem de ponte entre os lados" src="/assets/images/20240228_ponte_com_distintivo_acima_1024x1024.png" size="200px" %}{: .align-left}
+&nbsp;
+
+&nbsp;
+
 ## Apreciação (Appreciate)
+![Distintivo de reconhecimento associado a imagem de ponte entre os lados](/assets/images/20240228_ponte_com_distintivo_acima_1024x1024.png){: .align-left .img_width_200px}
 Receber feedback, especialmente quando negativo, pode ser difícil. A empresa deve cultivar um ambiente onde o feedback é apreciado, criando espaços seguros para sua troca. Líderes devem liderar pelo exemplo, mostrando gratidão pelo feedback recebido e encorajando uma cultura de abertura.
+&nbsp;
 
-{ % img alt="Jardineiro cultivando e descartando feedbacks" src="/assets/images/20240228_jardineiro_cultivando_e_descartando_1024x1024.png" size="200px" %}{: .align-left}
+&nbsp;
+
+&nbsp;
+
 ## Aceitar ou Descartar (Accept or Discard)
+![Jardineiro cultivando e descartando feedbacks](/assets/images/20240228_jardineiro_cultivando_e_descartando_1024x1024.png){: .align-left .img_width_200px}
 Nem todo feedback será relevante ou útil. É importante considerar cuidadosamente cada peça de feedback e decidir conscientemente o que adotar para o crescimento pessoal e o que descartar. Isso pode ser feito através de uma reflexão honesta e aberta, e a busca de feedback adicional para validar ou refutar as observações recebidas.
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 # Implementando a Cultura do Feedback
-
 Para adaptar os 4 A's da Netflix nas nossas empresas, várias etapas podem ser tomadas, incluindo a melhoria do Handbook de Comunicação, a criação de espaços regulares para troca de feedback, e a inclusão de cultural fit como parte do processo de contratação. Essas ações visam não apenas aprimorar a comunicação interna, mas também promover um ambiente onde o feedback é valorizado e utilizado como ferramenta de crescimento.
 
 # Conclusão
@@ -51,8 +68,8 @@ Para adaptar os 4 A's da Netflix nas nossas empresas, várias etapas podem ser t
 Adotar uma cultura de feedback inspirada no modelo da Netflix pode ser um motor de crescimento desconfortável, mas extremamente recompensador para a nossos negócios. Ao abraçar os 4 A's do feedback, a empresa pode esperar não só acelerar seu desenvolvimento e inovação, mas também construir um ambiente de trabalho mais colaborativo e com maior autonomia.
 
 # Para saber mais
+![Capa do livro a regra é não ter regras](/assets/images/20240228_capa_livro_a_regra_e_nao_ter_regras_737x1080.jpeg){: .align-right .img_width_300px}
 
-{ % img alt="Capa do livro a regra é não ter regras" src="/assets/images/20240228_capa_livro_a_regra_e_nao_ter_regras_737x1080.jpeg" size="300px" %}{: .align-right}
 - Livro: [A regra é não ter regras: A Netflix e a cultura da reinvenção. De Reed Hasting e Erin Meyer](https://www.goodreads.com/book/show/49099937-no-rules-rules?from_search=true&from_srp=true&qid=crJx3xTVdR&rank=1)
 - Dinâmicas que podem fortalecer o processo de feedback:
 	- [What speedback is and how to run it using zoom breakout rooms](https://www.thoughtworks.com/en-cn/insights/blog/what-speedback-and-how-run-it-using-zoom-breakout-rooms)

@@ -297,11 +297,3 @@ defaults:
       related: true
       show_date: true
 
-
-# jekyll_img
-jekyll_img:
-  die_on_img_error: true
-  pry_on_img_error: true
-
-img:
-  die_on_img_error: true

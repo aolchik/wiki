@@ -18,9 +18,6 @@ Para converter todas as imagens, siga as instruções em https://mslinn.com/blog
 
 ## Backlog
 
-- Publicar
-- Corrigir necessidade de reload a cada mudança de página
-  - Recebendo erro Error: The minimal-mistakes theme could not be found. desde que passei a usar o github-pages 
 - Suporte a featured-image do artigo
 - Adicionar TOC
 - Suportar comentários
@@ -35,4 +32,5 @@ Para converter todas as imagens, siga as instruções em https://mslinn.com/blog
 - Integrar com postagem em redes sociais
 - Suportar tradução automática via ChatGPT
 - Suportar comentários e backlog de melhorias no artigo
+- Suportar escutar o artigo
 
