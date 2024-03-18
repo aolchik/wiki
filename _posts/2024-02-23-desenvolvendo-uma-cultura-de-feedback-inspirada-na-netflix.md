@@ -1,5 +1,5 @@
 ---
-title: Desenvolvendo um Cultura de Feedback Inspirada na Netflix
+title: Desenvolvendo uma Cultura de Feedback Inspirada na Netflix
 date: 2024-02-23
 featured_image: 20240223_netflix_hero_banner_1024x1024.png
 categories: feedback cultura_organizacional
@@ -35,7 +35,7 @@ O primeiro pilar foca na intenção por trás do feedback. Ele deve ser entregue
 
 ## Ação (Actionable)
 ![Reação a feedback acionável e não acionável](/assets/images/20240228_feedback_acionavel_1024x1024.png){: .align-left .img_width_200px}
-Feedbacks devem ser específicos e acionáveis, focando no que pode ser feito de maneira diferente. Evite comentários vagos que deixam a pessoa sem direção clara. Por exemplo, em vez de dizer que uma apresentação está clara, sugira adicionar exemplos específicos para melhorar a compreensão da equipe. 
+Feedbacks devem ser específicos e acionáveis, focando no que pode ser feito de maneira diferente. Evite comentários vagos que deixam a pessoa sem direção clara. Por exemplo, em vez de dizer que uma apresentação não está clara, sugira adicionar exemplos específicos para melhorar a compreensão da equipe. 
 &nbsp;
 
 &nbsp;
