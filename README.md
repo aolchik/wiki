@@ -18,6 +18,9 @@ Para converter todas as imagens, siga as instruções em https://mslinn.com/blog
 
 ## Backlog
 
+- Suporte a moderação de comentários
+  - Necessário habilitar app em https://developers.facebook.com/apps/4088050358087859/settings/basic/
+    - App exige URL de callback para remoção de usuários  
 - Suporte a featured-image do artigo
 - Adicionar TOC
 - Suportar comentários
